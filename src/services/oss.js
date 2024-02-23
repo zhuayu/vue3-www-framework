@@ -1,5 +1,5 @@
-import request from "@/utils/request.js";
-import API from "@/consts/api.js";
+import request from '@/utils/request.js'
+import API from '@/consts/api.js'
 
 const ossService = {
   /**

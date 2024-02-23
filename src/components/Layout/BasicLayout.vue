@@ -1,7 +1,7 @@
 <script setup>
-import { RouterView } from 'vue-router';
-import BasicLayoutHeader from './BasicLayoutHeader.vue';
-import BasicLayoutFooter from './BasicLayoutFooter.vue';
+import { RouterView } from 'vue-router'
+import BasicLayoutHeader from './BasicLayoutHeader.vue'
+import BasicLayoutFooter from './BasicLayoutFooter.vue'
 </script>
 
 <template>
